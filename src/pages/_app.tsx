@@ -40,7 +40,10 @@ function App({ Component, pageProps }) {
         <meta name="description" content="For my bestie" />
         <meta property="og:title" content="For my bestie" />
         <meta property="og:description" content="For my bestie" />
-        <meta property="og:image" content="/images/thumbnail.png" />
+        <meta
+          property="og:image"
+          content="https://image.dienthoaivui.com.vn/x,webp,q90/https://dashboard.dienthoaivui.com.vn/uploads/dashboard/editor_upload/hinh-anh-20-10-2.jpg"
+        />
       </Head>
 
       <ToastContainer
