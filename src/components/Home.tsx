@@ -25,7 +25,7 @@ function Home() {
               </div>
             </h1>
             <h1 className="birthday">
-              <div className="text-center">Women's Day</div>
+              <div className="text-center">Women&apos;s Day</div>
             </h1>
           </div>
           <div className="mt-6 hidden md:flex items-center justify-between bg-textPink gap-10 border-[3px] border-black md:min-w-[200px] w-full md:w-fit rounded-full px-4 py-2">
