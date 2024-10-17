@@ -22,8 +22,7 @@ function CardPopup({ selectUser, showDialog, setShowDialog, className = "" }) {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
-              className="z-50 min-w-[282px] md:min-w-[392px] !bg-transparent"
-              style={{ width: 380 }}
+              className="z-50 min-w-[343px] md:min-w-[392px] w-[380px] md:w-[750px] !bg-transparent"
             >
               <motion.div
                 className="relative p-4 bg-white rounded-3xl"
