@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Bác Vân",
+      "key": "bac_van",
+      "message": "Chúc mừng bác nhân ngày 20/10 🎉. Mong bác luôn khỏe mạnh, vui vẻ và hạnh phúc bên gia đình. Bác lúc nào cũng là người phụ nữ đảm đang và tuyệt vời nhất trong mắt cả nhà 🌸. Chúc bác mỗi ngày đều tràn đầy niềm vui và bình an 💖.",
+      "insideImage": "/images/20_10/bac_van.jpg",
+      "outsideImage": "/images/20_10/cac_bac_me.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chị Hà",
+      "key": "chi_ha",
+      "message": "Chúc chị mình và Bún có 1 ngày 20/10 thật vui vẻ và ý nghĩa 🎉 Chúc cho gia đình nhỏ của chị mình luôn luôn hạnh phúc và lúc nào cũng có thật nhìu xiền để kiếm thêm vài mảnh đất để trồng rau cho cả nhà ăn lẩu nhá nhá nhá =))))) 💖 Mãi iu",
+      "insideImage": "/images/20_10/chi_ha.jpg",
+      "outsideImage": "/images/20_10/4_chi_em.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Chị Hương",
+      "key": "chi_huong",
+      "message": "Chúc chị mình và Bơ có 1 ngày 20/10 thật vui vẻ🌸 năm nay có nhà mới, chỉ cần chúc chị tui có thật nhiều sức khỏe để cố gắng cày cuốc sắm dc thêm vài căn nữa nhá =))))) hạnh phúc bên gia đình nhỏ của mình nha 💖 Mãi iu",
+      "insideImage": "/images/20_10/chi_huong.jpg",
+      "outsideImage": "/images/20_10/4_chi_em.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bác Lĩnh",
+      "key": "bac_linh",
+      "message": "Gửi lời chúc mừng 20/10 đến bác 🎉. Mong bác luôn gặp nhiều may mắn, mọi điều trong cuộc sống đều suôn sẻ. Chúc bác có nhiều thời gian để tận hưởng những niềm vui riêng và lúc nào cũng hạnh phúc! 😘",
+      "insideImage": "/images/20_10/bac_linh.jpg",
+      "outsideImage": "/images/20_10/cac_bac_me.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Chị Linh",
+      "key": "chi_linh",
+      "message": "Nhân ngày 20/10, chúc cho người phụ nữ duy nhất trong gia đình nhỏ của chị 8386 =)))) mãi đỉnh mãi đỉnh 🌟 Sang năm làm lên KOL nhá :)))) Mọi điều tốt đẹp sẽ đến với chị tui nha 💖 Mãi iu",
+      "insideImage": "/images/20_10/chi_linh.jpg",
+      "outsideImage": "/images/20_10/4_chi_em.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Bác Hường",
+      "key": "bac_huong",
+      "message": "Nhân ngày 20/10, chúc bác thật nhiều niềm vui 🌸. Mong bác luôn có sức khỏe tốt, cuộc sống nhẹ nhàng và bình an. Chúc bác mỗi ngày đều rực rỡ và tươi đẹp như đóa hoa nở sớm! 🌼",
+      "insideImage": "/images/20_10/bac_huong.jpg",
+      "outsideImage": "/images/20_10/cac_bac_me.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Bác Hằng",
+      "key": "bac_hang",
+      "message": "Chúc bác ngày 20/10 thật tuyệt vời 🎊. Mong bác luôn tràn đầy năng lượng tích cực và có nhiều khoảnh khắc vui vẻ bên gia đình. Chúc bác luôn được yêu thương và hạnh phúc trọn vẹn! 💖",
+      "insideImage": "/images/20_10/bac_hang.jpg",
+      "outsideImage": "/images/20_10/cac_bac_me.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Mẹ yêu",
+      "key": "me",
+      "message": "Mẹ ơi, chúc mẹ 20/10 thật vui và hạnh phúc nha! 🌸 Cảm ơn mẹ đã luôn yêu thương và chăm sóc gia đình mình. Mong mẹ lúc nào cũng khỏe mạnh, vui cười nhiều và có nhiều niềm vui trong cuộc sống! 💖",
+      "insideImage": "/images/20_10/me_hien.jpg",
+      "outsideImage": "/images/20_10/cac_bac_me.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Mẹ Yến",
+      "key": "me_yen",
+      "message": "20/10 tới rồi, chúc mẹ có một ngày vui vẻ! 🌟 Chúc mẹ luôn giữ được tinh thần vui tươi, thoải mái và lúc nào cũng rạng rỡ như bây giờ. Mong mẹ lúc nào cũng khỏe mạnh, vui cười nhiều và có nhiều niềm vui trong cuộc sống! 💖",
+      "insideImage": "/images/20_10/me_yen.jpg",
+      "outsideImage": "/images/20_10/me_yen_outside.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Chị Hiền",
+      "key": "chi_hien",
+      "message": "Em chúc chị có 1 ngày 20/10 thật vui vẻ và hạnh phúc bên đại gia đình đáng yêu của mình 💖 chúc cho cả chị và anh luôn có thật nhiều sức khỏe để có thể phát triển công việc hơn nữa và là chỗ dựa vững chắc cho các cháu của bọn em ạ 🌟",
+      "insideImage": "/images/20_10/chi_hien_inside.jpg",
+      "outsideImage": "/images/20_10/chi_hien.jpg",
+      "isVideo": true
+    }
+  ]
+}
